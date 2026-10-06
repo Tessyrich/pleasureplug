@@ -1,0 +1,15 @@
+/** Lifestyle photos (Pexels licence). Used for backgrounds, journal and day cards. */
+export const photos = {
+  coupleHands: { src: "/lifestyle/couple-hands.jpg", alt: "Close-up of a couple holding hands in a cozy setting, portraying intimacy and connection", source: "https://www.pexels.com/photo/intimate-moment-of-couple-holding-hands-36989342/" },
+  coupleLaugh: { src: "/lifestyle/couple-laugh.jpg", alt: "A joyful couple shares a heartfelt embrace outdoors, showcasing love and happiness", source: "https://www.pexels.com/photo/a-happy-couple-showing-affection-7741588/" },
+  coupleKiss: { src: "/lifestyle/couple-kiss.jpg", alt: "A couple shares a heartfelt kiss at their cultural wedding, reflecting love and tradition", source: "https://www.pexels.com/photo/couple-kissing-each-other-affectionately-11618945/" },
+  coupleTender: { src: "/lifestyle/couple-tender.jpg", alt: "A joyful couple sharing a tender moment, smiling at each other, in a minimalist indoor setting", source: "https://www.pexels.com/photo/smiling-couple-together-10597024/" },
+  coupleSilhouette: { src: "/lifestyle/couple-silhouette.jpg", alt: "Silhouette of a couple embracing with a backlit glow, symbolizing love and intimacy", source: "https://www.pexels.com/photo/silhouette-of-a-romantic-couple-embracing-34767987/" },
+  coupleWhite: { src: "/lifestyle/couple-white.jpg", alt: "An African American couple in white sweaters embracing and smiling against a black background", source: "https://www.pexels.com/photo/a-couple-in-white-sweater-embracing-each-other-11742722/" },
+  womanBed: { src: "/lifestyle/woman-bed.jpg", alt: "Woman lying on a bed smiling at the camera with hands behind her head, showcasing comfort and relaxation", source: "https://www.pexels.com/photo/overhead-shot-of-a-woman-with-curly-hair-lying-on-the-bed-6975933/" },
+  womanMask: { src: "/lifestyle/woman-mask.jpg", alt: "A woman relaxing in bed with a sleep mask, surrounded by white bedding and decor", source: "https://www.pexels.com/photo/woman-lying-down-on-bed-7445243/" },
+  womanToy: { src: "/lifestyle/woman-toy.jpg", alt: "A young woman with eyeglasses holds two colorful vibrators against a purple background", source: "https://www.pexels.com/photo/a-woman-in-knitted-sweater-vest-holding-a-vibrators-6768982/" },
+  candles: { src: "/lifestyle/candles.jpg", alt: "Warm autumn scene with a candle, book, rose, and knitted scarf, perfect for cozy nights", source: "https://www.pexels.com/photo/cozy-autumn-vibes-with-candle-and-book-33686012/" },
+  satin: { src: "/lifestyle/satin.jpg", alt: "Top view of hand of crop anonymous female on soft silk creased bed sheet at home", source: "https://www.pexels.com/photo/hand-of-crop-woman-on-crumpled-bed-sheet-4199730/" },
+  grapefruit: { src: "/lifestyle/grapefruit.jpg", alt: "Top view of crop faceless person sticking finger in half of sliced juicy grapefruit against light green background in studio", source: "https://www.pexels.com/photo/conceptual-erotic-photography-6156969/" },
+} as const;
